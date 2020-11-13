@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOP_BUK_Integration", "GOP_BUK_Integration.csproj", "{FD716733-8A18-44E0-A0D7-EA68CEB2FABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOP_BUK_Bll", "..\GOP_BUK_Bll\GOP_BUK_Bll.csproj", "{FDCB52BF-AD9C-44D8-9C2B-C8D3533D703B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD716733-8A18-44E0-A0D7-EA68CEB2FABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD716733-8A18-44E0-A0D7-EA68CEB2FABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD716733-8A18-44E0-A0D7-EA68CEB2FABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD716733-8A18-44E0-A0D7-EA68CEB2FABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCB52BF-AD9C-44D8-9C2B-C8D3533D703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCB52BF-AD9C-44D8-9C2B-C8D3533D703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCB52BF-AD9C-44D8-9C2B-C8D3533D703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCB52BF-AD9C-44D8-9C2B-C8D3533D703B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C717CFA4-01F5-4B13-8CDC-0957D0B82242}
+	EndGlobalSection
+EndGlobal
