@@ -15,7 +15,7 @@ namespace GOP_BUK_Integration
             string sftpPathBackup, apiBasePath, token, sftpHost, sftpUserName, sftpPassword, sftpPath, excelFilePath, logsPath;
             int sftpPort;
 
-            if (args.Length == 8)
+            if (args.Length == 9)
             {
                 apiBasePath = args[0];
                 token = args[1];
